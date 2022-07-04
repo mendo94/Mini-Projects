@@ -1,6 +1,6 @@
 ### Hello and Welcome! 😄
 
-<p align="center"><a href="https://mendo94.github.io"><img width="80%" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
