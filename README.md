@@ -1,14 +1,38 @@
 ### Hello and Welcome! 
 
-![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+<a href="https://www.linkedin.com/in/rina-mendoza/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/mendo94/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mendo94&repo=convoychat" />
+<a href="mailto:rinamendozaa@gmail.com">
+  <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://medium.com/@rinamendozaa">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<!--
+<a href="https://www.hackerrank.com/russellsaerang">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a> -->
+
+<p float="left">
+  <a href="https://github.com/RussellDash332/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Rina's GitHub Stats" />
+<!--
+![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight) -->
+
+<details>
+  <summary>
+    <b>Wakatime Stats</b>
+  </summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mendo94&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
+</details>
+<details>
+  <summary>
+    <b>Contribution Graph</b>
+  </summary>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=mendo94&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
+</details>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendo94)](https://github.com/mendo94/github-readme-stats)
 <!--
