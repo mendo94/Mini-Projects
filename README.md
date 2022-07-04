@@ -1,5 +1,9 @@
 ### Hello and Welcome! 😄
 
+<p align="center"><a href="https://mendo94.github.io"><img width="80%" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 <a href="https://www.linkedin.com/in/rina-mendoza/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -10,7 +14,7 @@
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <!--
-<a href="https://www.hackerrank.com/russellsaerang">
+<a href="https://www.hackerrank.com/rinamendozaa">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a> -->
 
