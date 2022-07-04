@@ -1,8 +1,8 @@
-### Hello and Welcome! 😄
 
-<p align="center"><a href=#><img width="80%" src="ezgif.com-gif-maker (1).gif" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href=#><img width="50%" src="ezgif.com-gif-maker (1).gif" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
+
 
 <a href="https://www.linkedin.com/in/rina-mendoza/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/rinamendozaa">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a> -->
-
+<br />
 
 ![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight)
 
