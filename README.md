@@ -15,17 +15,17 @@
 </a> -->
 
 <p float="left">
-  <a href="https://github.com/RussellDash332/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&count_private=true&hide_rank=false&show_icons=true&theme=theme=tokyonight&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Rina's GitHub Stats" />
+  <a href="https://github.com/mendo94/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&count_private=true&hide_rank=false&show_icons=true&theme=theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Rina's GitHub Stats" />
 <!--
 ![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight) -->
 
-<details>
+<div>
   <summary>
-    <b>Wakatime Stats</b>
+     <b>Wakatime Stats</b>
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mendo94&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
-</details>
+</div>
 <details>
   <summary>
     <b>Contribution Graph</b>
