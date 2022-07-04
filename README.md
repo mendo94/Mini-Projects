@@ -1,9 +1,7 @@
-<img src="https://www.canva.com/design/DAFFeb6AapU/BN7gDtIc3Rsh7k16ahcFwQ/view?utm_content=DAFFeb6AapU&utm_campaign=designshare&utm_medium=link&utm_source=viewer" />
 
-
-<p align="center"><a href=#><kbd>
+<p align="center"><a href=#>
   <img width="30%" src="ezgif.com-gif-maker (1).gif" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" />
-  </kbd>
+
   </a></p>
 
 <br />
