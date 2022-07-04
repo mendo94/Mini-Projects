@@ -15,14 +15,26 @@
 </a>
 <a href="https://medium.com/@rinamendozaa">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
-</a></p>
+</a>
+
+​
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+</p>
 <!--
 <a href="https://www.hackerrank.com/rinamendozaa">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a> -->
 <br >
 
-![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight)
+
+<p align="center"><a href="https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight">
+  </a></p>
+
 
 <details>
   <summary>
