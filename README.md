@@ -1,6 +1,6 @@
 ### Hello and Welcome! 😄
 
-<p align="center"><a href="ezgif.com-gif-maker(1).gif"><img width="80%" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href=#><img width="80%" src="ezgif.com-gif-maker (1).gif" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
