@@ -16,7 +16,7 @@
 
 <p float="left">
   <a href="https://github.com/RussellDash332/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Rina's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&count_private=true&hide_rank=false&show_icons=true&theme=theme=tokyonight&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Rina's GitHub Stats" />
 <!--
 ![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight) -->
 
