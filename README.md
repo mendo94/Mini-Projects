@@ -21,17 +21,11 @@
 
 <p float="left" align="center">
 <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  
 <img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-
 <img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-
 <img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="20" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img height="20" alt="boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-          
-
-
 </p>
 <!--
 <a href="https://www.hackerrank.com/rinamendozaa">
@@ -40,7 +34,9 @@
 <br >
 
 
-<p align="center"><a href="https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight">
+ <p align="center"><a href="https://github.com/mendo94/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight&custom_title=Rina's GitHub Stats"
+
   </a></p>
 
 
@@ -64,6 +60,10 @@
     <a href="https://github.com/mendo94github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendo94" /></a>
 
  </details>
+ <p float="left">
+
+  
+
 <!--
 **mendo94/mendo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
