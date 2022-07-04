@@ -27,12 +27,16 @@
   <summary>
     <b>Contribution Graph</b>
   </summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=mendo94&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=mendo94&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1" /></a>
 </details>
 
 <details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendo94)](https://github.com/mendo94/github-readme-stats)
-</details>
+  <summary>
+    <b>Top Languages</b>
+    </summary>
+    <a href="https://github.com/mendo94github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendo94" /></a>
+
+ </details>
 <!--
 **mendo94/mendo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
