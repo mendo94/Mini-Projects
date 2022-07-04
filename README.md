@@ -14,11 +14,8 @@
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a> -->
 
-<p float="left">
-  <a href="https://github.com/mendo94/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&count_private=true&hide_rank=false&show_icons=true&theme=theme=synthwave&include_all_commits=true&custom_title=Rina's GitHub Stats" />
-<!--
-![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight) -->
+
+![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight)
 
 <details>
   <summary>
@@ -33,8 +30,9 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=mendo94&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
 </details>
 
-
+<details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendo94)](https://github.com/mendo94/github-readme-stats)
+</details>
 <!--
 **mendo94/mendo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
