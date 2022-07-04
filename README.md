@@ -1,5 +1,5 @@
 
-<p align="center"><a href=#><img width="30%" src="ezgif.com-gif-maker (1).gif" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href=#><kbd><img width="30%" src="ezgif.com-gif-maker (1).gif" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" /></kbd></a></p>
 
 <br />
 
@@ -12,14 +12,14 @@
 </a>
 <a href="https://medium.com/@rinamendozaa">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
-</a>
+</a></p>
 <!--
 <a href="https://www.hackerrank.com/rinamendozaa">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a> -->
 <br >
 
-<p align="center">![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight)</p>
+![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight)
 
 <details>
   <summary>
