@@ -2,6 +2,7 @@
 
 ![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendo94)](https://github.com/mendo94/github-readme-stats)
 <!--
 **mendo94/mendo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
