@@ -1,4 +1,4 @@
-### Hello and Welcome! 
+### Hello and Welcome! 😄
 
 <a href="https://www.linkedin.com/in/rina-mendoza/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,16 +16,16 @@
 
 <p float="left">
   <a href="https://github.com/mendo94/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&count_private=true&hide_rank=false&show_icons=true&theme=theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Rina's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&count_private=true&hide_rank=false&show_icons=true&theme=theme=synthwave&include_all_commits=true&custom_title=Rina's GitHub Stats" />
 <!--
 ![Rina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight) -->
 
-<div>
+<details>
   <summary>
-     <b>Wakatime Stats</b>
+     <b>Time I spent this week</b>
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mendo94&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
-</div>
+</details>
 <details>
   <summary>
     <b>Contribution Graph</b>
