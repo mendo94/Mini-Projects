@@ -1,6 +1,6 @@
 
 <p align="center"><a href=#>
-  <img width="45%" src="ezgif.com-gif-maker (1).gif" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" />
+  <img width="65%" src="ezgif.com-gif-maker (1).gif" alt="I'm Rina. I'm seeking to become a full stack software developer!" src="./assets/gh-readme-header.png" />
 
   </a></p>
 
