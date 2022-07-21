@@ -16,6 +16,10 @@
 <a href="https://medium.com/@rinamendozaa">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
+  <a href="https://www.hackerrank.com/rinamendozaa">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a> 
+<br >
 </p>
 <br>
 
@@ -27,11 +31,8 @@
 <img height="20" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img height="20" alt="boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </p>
-<!--
-<a href="https://www.hackerrank.com/rinamendozaa">
-  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a> -->
-<br >
+
+
 
 
  <p align="center"><a href="https://github.com/mendo94/">
