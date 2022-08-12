@@ -33,12 +33,10 @@
 </p>
 
 
+[![Rina's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=mendo94&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/mendo94/mendo94/blob/main/readme.md)
 
 
- <p align="center"><a href="https://github.com/mendo94/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo94&show_icons=true&theme=tokyonight&custom_title=Rina's GitHub Stats"
 
-  </a></p>
 
 
 <details>
