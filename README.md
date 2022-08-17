@@ -36,15 +36,13 @@
 [![Rina's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=mendo94&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/mendo94/mendo94/blob/main/readme.md)
 
 
-
-
-
 <details>
   <summary>
-     <b>Time I spent this week</b>
+    <b>Time I spent this week</b>
   </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mendo94&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mendo94&layout=compact&theme=react&title_color=dd58c1&custom_title=My%20Wakatime%20Stats"/></a>
 </details>
+
 <details>
   <summary>
     <b>Contribution Graph</b>
